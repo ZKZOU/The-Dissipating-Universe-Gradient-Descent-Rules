@@ -1,0 +1,1 @@
+# The-Dissipating-Universe-Gradient-Descent-Rules
