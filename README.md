@@ -1,6 +1,6 @@
 # The Dissipating Universe Gradient Descent Rules
 
-The MITC Model — A New Physical Framework Where Energy Gradients Drive Everything, Without Exception
+
 
 Model Name: MITC Model (Multiplicative-Entropy-Driven Invariant-Topology Chiral-Space Model)
 
