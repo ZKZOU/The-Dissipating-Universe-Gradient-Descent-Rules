@@ -1,4 +1,4 @@
-# The Dissipating Universe Gradient Descent Rules
+# The Dissipating Universe, Gradient Descent Rules
 
 
 
