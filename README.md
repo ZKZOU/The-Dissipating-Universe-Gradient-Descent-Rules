@@ -1,6 +1,6 @@
 # The Dissipating Universe, Gradient Descent Rules
 
-
+### Space is a fixed discrete Graph network. Energy flows irreversibly down gradients. 
 
 Model Name: MITC Model (Multiplicative-Entropy-Driven Invariant-Topology Chiral-Space Model)
 
