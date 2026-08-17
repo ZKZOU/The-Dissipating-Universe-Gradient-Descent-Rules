@@ -1,4 +1,4 @@
-# The Dissipating Universe, Gradient Descent Rules
+# Gradient Descent Rules The Dissipating Universe
 
 ### Space is a fixed discrete Graph network. Energy flows irreversibly down gradients. 
 
